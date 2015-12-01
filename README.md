@@ -8,7 +8,7 @@ MiniGL is an implementation of OpenGL's 3D graphics pipeline. I only implemented
 
 >$ make
 
->$ ./pipeline 
+>$ ./minigl <1-6>
 
 ##Dependencies
 The OpenGL library is required in order to compile this code.
