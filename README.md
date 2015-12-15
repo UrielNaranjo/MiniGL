@@ -1,5 +1,8 @@
 # MiniGL
-MiniGL is an implementation of OpenGL's 3D graphics pipeline. I only implemented the minigl.cpp file.
+MiniGL is an implementation of OpenGL's 3D graphics pipeline.
+I only implemented the minigl.cpp file.
+Each tests draws a different object to the screen with varying colors. 
+
 ##Installation
 
 >$ git clone https://github.com/UrielNaranjo/MiniGL.git
