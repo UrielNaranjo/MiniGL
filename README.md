@@ -17,9 +17,10 @@ Each tests draws a different object to the screen with varying colors.
 The OpenGL library is required in order to compile this code.
    
 To install OpenGL on linux run: 
->$ sudo apt-get install libglew-dev libsdl2-dev libsdl2-image-dev libglm-dev libfreetype6-dev
+>$ sudo apt-get install freeglut3-dev
 
->$ sudo apt-get install libglew-dev libsdl2-dev libsdl2-image-dev libglm-dev libfreetype6-dev
+By installing glut, you will be prompted to install it's dependencies which
+include OpenGL.
 
 To install OpenGL on Mac you must install the developer tools that come with Xcode. Xcode can be found on the Appstore.
 You must then change the LDFLAGS in the Makefile to: 
